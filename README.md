@@ -1,15 +1,12 @@
-<h1 align="center">Hi , I'm Samuel Villalba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola , Soy Samuel Villalba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I am a student of programming at UTN (I am in my last term). As soon as I finish I will continue studying a degree in data science.  I am expanding my knowledge in both front-end and back-end development. I am currently doing an eccommerce to practice my knowledge with the stack (Spring-React-SqlServer).
+🎓 Actualmente estoy finalizando la Tecnicatura en Programación en la UTN y planeo continuar con la carrera de Licenciatura en Ciencia de Datos. Me apasiona tanto el desarrollo front-end como back-end, y estoy desarrollando un proyecto de eCommerce para poner en práctica mis conocimientos utilizando el stack Spring Boot + React + SQL Server.
 
-- 🌱 I am currently learning ...
-  - Java (Spring Boot)
-  - React js
-- 👯 I'm looking forward to collaborate in open source projects.
-- I am looking forward to collaborate in open source projects.
-✔ Ask me about anything, I'm happy to help .
+- 💡 Tengo un perfil adaptativo, con facilidad para aprender y desenvolverme en distintos entornos.
+- 🤝 Estoy abierto a colaborar en proyectos de código abierto y aportar a desarrollos con propósito.
+💬 No dudes en contactarme, siempre estoy dispuesto a ayudar o conectar.
 
-- 📫 Reach out to me at: <a href="villalbasamuel2004@gmail.com">villalbasamuel2004@gmail.com</a>
+- 📫 Contacto: <a href="villalbasamuel2004@gmail.com">villalbasamuel2004@gmail.com</a>
 
 <h4> Languages </h4>
 <span> 
