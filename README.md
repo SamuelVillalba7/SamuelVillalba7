@@ -4,7 +4,7 @@
 
 - 💡 Tengo un perfil adaptativo, con facilidad para aprender y desenvolverme en distintos entornos.
 - 🤝 Estoy abierto a colaborar en proyectos de código abierto y aportar a desarrollos con propósito.
-💬 No dudes en contactarme, siempre estoy dispuesto a ayudar o conectar.
+- 💬 No dudes en contactarme, siempre estoy dispuesto a ayudar o conectar.
 
 - 📫 Contacto: <a href="villalbasamuel2004@gmail.com">villalbasamuel2004@gmail.com</a>
 
